@@ -21,5 +21,5 @@ class vehicle
     float acceleration;
     float handling;
     public:
-    vehicle():speed(0),acceleration(0),handling(0),position(0,0,0){}
+    vehicle():speed(0),acceleration(0),handling(0),position(0,0,0){}//this is for constructor for intializing the value
 }
